@@ -1,7 +1,7 @@
 # Hi, I'm Rafia Naeem 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Computer+Science+Student;Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Computer+Science+Student;Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;Building+Intelligent+Systems+That+Solve+Real+Problems;Always+Learning%2C+Building+%26+Experimenting" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,20 +11,60 @@
   <a href="https://www.linkedin.com/in/rafia-naeem/">
     <img src="https://img.shields.io/badge/LinkedIn-Rafia%20Naeem-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rafiaaneem960@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rafiaaneem960%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science student and AI Engineer** passionate about building intelligent software systems.
+I'm a **Computer Science student and aspiring AI Engineer** passionate about building intelligent, practical, and production-oriented AI systems.
 
-My interests include **Artificial Intelligence, Generative AI, Agentic AI, Machine Learning, and Computer Vision**.
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, and Computer Vision**.
 
-I enjoy transforming AI concepts into practical applications and exploring how intelligent systems can solve real-world problems.
+I enjoy taking AI concepts beyond notebooks and experiments — turning them into **usable applications, intelligent agents, APIs, and end-to-end systems**.
+
+* 🎓 Computer Science student at **Quaid-i-Azam University, Islamabad**
+* 🤖 Focused on **AI Engineering, Generative AI & Agentic AI**
+* 👁️ Exploring **Computer Vision and Deep Learning**
+* 🧠 Building applications with **LLMs, AI Agents, RAG and modern AI frameworks**
+* 🔬 Interested in solving **real-world problems through AI**
+* 🛠️ Experienced with Python-based AI application development
+* 🌱 Currently deepening my knowledge of **LLMs, CNNs, Computer Vision and Agentic Architectures**
+* 💡 I believe the best way to learn AI is to **build, experiment, evaluate and iterate**
+
+---
+
+## 🧠 What I Work On
+
+```text
+Artificial Intelligence
+│
+├── Generative AI
+│   ├── Large Language Models
+│   ├── Prompt Engineering
+│   ├── RAG Systems
+│   └── LLM Applications
+│
+├── Agentic AI
+│   ├── Multi-Agent Systems
+│   ├── AI Agents
+│   ├── LangGraph
+│   ├── Tool Calling
+│   └── Intelligent Routing
+│
+├── Computer Vision
+│   ├── Face Recognition
+│   ├── Deep Learning
+│   ├── CNNs
+│   └── Object Detection
+│
+└── AI Engineering
+    ├── FastAPI
+    ├── Streamlit
+    ├── Vector Databases
+    ├── APIs
+    └── End-to-End AI Systems
+```
 
 ---
 
@@ -38,13 +78,14 @@ I enjoy transforming AI concepts into practical applications and exploring how i
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### AI & Machine Learning
+### AI / Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-6C63FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer_Vision-00A98F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
 </p>
 
@@ -78,7 +119,7 @@ I enjoy transforming AI concepts into practical applications and exploring how i
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### Tools & Technologies
+### Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -91,78 +132,177 @@ I enjoy transforming AI concepts into practical applications and exploring how i
 
 ---
 
-## 💼 Experience
-
-### 🤖 AI Intern — Rapidev
-
-**July 2026 – August 2026**
-
-* Worked on **Agentic AI** systems and intelligent agent workflows.
-* Explored agent-based architectures and the integration of AI agents into practical applications.
-* Worked with modern AI technologies to develop intelligent and task-oriented systems.
-
----
-
-### 🧠 Generative AI Intern — ITSOLERA Pvt. Ltd.
-
-**June 2025 – August 2025**
-
-* Worked on **Generative AI and AI-based applications**.
-* Explored Large Language Models and practical applications of modern AI technologies.
-* Contributed to the development and experimentation of intelligent software solutions.
-
----
-
 ## 🚀 Featured Projects
-
-### 🧠 ScholarMind — AI Research Assistant
-
-An AI-powered research assistant designed to support students and researchers through intelligent research workflows and AI-assisted interactions.
-
-**Technologies:** Python • Generative AI • Streamlit • SQLite • LLMs
-
-🔗 [View Repository](https://github.com/Rafiaanaeem/ScholarMind)
-
----
 
 ### 🤖 Intentra AI
 
-An intelligent AI system designed to understand user intent and route requests to appropriate AI capabilities.
+An intelligent AI application focused on understanding user intent and routing requests to appropriate AI capabilities.
 
-**Technologies:** Python • LLMs • LangChain • LangGraph • Agentic AI
+**Tech:** Python • AI Agents • LLMs • LangChain • LangGraph
 
 🔗 [View Repository](https://github.com/Rafiaanaeem/intentra-ai)
 
 ---
 
-### 🏫 University Workshop Software System
+### 👁️ Face Recognition System
 
-A software system developed to manage and streamline university workshop-related activities and workflows.
+A computer vision project exploring modern face recognition using deep face embeddings, vector similarity search, and image-based recognition.
 
-**Technologies:** Python • Software Engineering • Database Systems
+**Tech:** Python • Computer Vision • ArcFace • InsightFace • ChromaDB
 
-🔗 [View Repository](https://github.com/Rafiaanaeem/University_workshop)
+🔗 [View Repository](https://github.com/Rafiaanaeem/Face-Recognition-System)
+
+---
+
+### 🌦️ Weather ReAct Agent
+
+An AI agent implementation exploring the ReAct pattern, tool usage, reasoning and interaction with external information.
+
+**Tech:** Python • AI Agents • ReAct • LLMs
+
+🔗 [View Repository](https://github.com/Rafiaanaeem/weather-react-agent)
+
+---
+
+### 🧠 ScholarMind — AI Research Assistant
+
+An AI-powered research assistant designed to support students and researchers with intelligent research workflows, document generation and AI-assisted interaction.
+
+**Tech:** Python • Streamlit • LLMs • SQLite • Generative AI
+
+🔗 **Repository:** `TODO — add repository link`
+
+---
+
+### 🧩 Multi-Agent AI System
+
+A modular multi-agent architecture that intelligently routes user requests to specialized AI agents through a supervisor while using a gatekeeping layer for general conversations.
+
+**Tech:** Python • LangGraph • LangChain • FastAPI • Streamlit • LLMs
+
+🔗 **Repository:** `TODO — add repository link`
+
+---
+
+### 🎨 AI Face Stylization using GANs
+
+A deep learning project exploring image generation and face stylization using Generative Adversarial Networks.
+
+**Tech:** Python • Deep Learning • GANs • Computer Vision
+
+🔗 **Repository:** `TODO — add repository link`
+
+---
+
+## 💼 Experience
+
+### Artificial Intelligence & Generative AI Intern
+
+**ITSOLERA Pvt. Ltd.**
+
+📅 June 2025 – August 2025
+
+Worked on AI-focused development and explored practical applications of **Generative AI, LLMs and intelligent software systems**.
+
+> `TODO: Add 2–3 specific responsibilities/achievements from your internship here.`
+
+---
+
+## 🎓 Education
+
+### Bachelor of Science in Computer Science
+
+**Quaid-i-Azam University — Islamabad, Pakistan**
+
+`2023 – 2027`
+
+* Computer Science
+* Artificial Intelligence
+* Machine Learning
+* Data Structures & Algorithms
+* Database Systems
+* Software Engineering
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously expanding my AI engineering foundation.
+
+```text
+🔹 Large Language Models
+🔹 Transformer Architecture
+🔹 Retrieval-Augmented Generation (RAG)
+🔹 Multi-Agent Systems
+🔹 LangGraph & Agentic Architectures
+🔹 Computer Vision
+🔹 CNN Architectures
+🔹 Object Detection
+🔹 Model Evaluation & Optimization
+🔹 Production AI Systems
+```
+
+---
+
+## 🧪 AI Engineering Philosophy
+
+> I don't want to only learn AI models.
+>
+> I want to understand **how AI systems work, how to evaluate them, how to connect them with tools, and how to turn them into reliable real-world applications.**
+
+My goal is to grow from building AI prototypes to engineering **scalable, intelligent and production-ready AI systems**.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiaanaeem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiaanaeem&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rafiaanaeem&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiaanaeem&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rafiaanaeem/Rafiaanaeem/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with people interested in **Artificial Intelligence, Generative AI, Agentic AI, Machine Learning, and Computer Vision**.
+I'm always interested in connecting with people working on **AI, Machine Learning, Generative AI, Computer Vision and emerging technologies**.
 
 <p align="center">
-  <a href="mailto:rafiaaneem960@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rafiaaneem960%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/Rafiaanaeem">
+    <img src="https://img.shields.io/badge/GitHub-Rafiaanaeem-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rafia-naeem/">
     <img src="https://img.shields.io/badge/LinkedIn-Rafia%20Naeem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Rafiaanaeem">
-    <img src="https://img.shields.io/badge/GitHub-Rafiaanaeem-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <!-- TODO: Add your email -->
 </p>
 
 ---
 
 <p align="center">
-  <i>Building intelligent systems, one project at a time. 🤖</i>
+  <i>Building. Learning. Experimenting. Growing with AI. 🤖</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
 </p>
