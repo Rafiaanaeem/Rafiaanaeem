@@ -6,15 +6,15 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-* 🎓 Final year **Computer Science student at Quaid-i-Azam University, Islamabad** with a **CGPA of 3.6/4.0**.
-* 🤖 **AI Engineer** and continuously more focused on **Generative AI, Agentic AI, LLMs, and Computer Vision**.
-* 🚀 Passionate about building **intelligent, practical, and production-oriented AI systems** that solve real-world problems.
+*  Final year **Computer Science student at Quaid-i-Azam University, Islamabad** with a **CGPA of 3.6/4.0**.
+*  **AI Engineer** and continuously more focused on **Generative AI, Agentic AI, LLMs, and Computer Vision**.
+*  Passionate about building **intelligent, practical, and production-oriented AI systems** that solve real-world problems.
 
 ---
 
-## 🧠 What I Have Worked On
+##  What I Have Worked On
 
 ```text
 Artificial Intelligence
@@ -48,7 +48,7 @@ Artificial Intelligence
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 
@@ -101,9 +101,9 @@ Artificial Intelligence
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🧠 ScholarMind — AI Research Assistant
+###  ScholarMind — AI Research Assistant
 
 An AI-powered research assistant designed to support students and researchers with intelligent research workflows, document generation, and AI-assisted interaction.
 
@@ -113,7 +113,7 @@ An AI-powered research assistant designed to support students and researchers wi
 
 ---
 
-### 🤖 Agentra AI
+###  Agentra AI
 
 An intelligent agentic AI system designed to understand user requests, intelligently route tasks, and coordinate specialized AI capabilities using modern agentic architectures.
 
@@ -123,7 +123,7 @@ An intelligent agentic AI system designed to understand user requests, intellige
 
 ---
 
-### 👁️ Face Recognition System
+###  Face Recognition System
 
 A computer vision system implementing modern face recognition using deep face embeddings, similarity search, and vector database technology.
 
@@ -133,9 +133,9 @@ A computer vision system implementing modern face recognition using deep face em
 
 ---
 
-## 💼 Experience
+##  Experience
 
-### 🤖 Artificial Intelligence & Generative AI Intern
+###  Artificial Intelligence & Generative AI Intern
 
 **ITSOLERA Pvt. Ltd.**
 
@@ -145,7 +145,7 @@ Worked on AI-focused development and explored practical applications of **Genera
 
 ---
 
-### 🧩 Agentic AI Intern
+###  Agentic AI Intern
 
 **Rapidev**
 
