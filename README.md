@@ -17,20 +17,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science student and aspiring AI Engineer** passionate about building intelligent, practical, and production-oriented AI systems.
-
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, and Computer Vision**.
-
-I enjoy taking AI concepts beyond notebooks and experiments — turning them into **usable applications, intelligent agents, APIs, and end-to-end systems**.
-
-* 🎓 Computer Science student at **Quaid-i-Azam University, Islamabad**
-* 🤖 Focused on **AI Engineering, Generative AI & Agentic AI**
-* 👁️ Exploring **Computer Vision and Deep Learning**
-* 🧠 Building applications with **LLMs, AI Agents, RAG and modern AI frameworks**
-* 🔬 Interested in solving **real-world problems through AI**
-* 🛠️ Experienced with Python-based AI application development
-* 🌱 Currently deepening my knowledge of **LLMs, CNNs, Computer Vision and Agentic Architectures**
-* 💡 I believe the best way to learn AI is to **build, experiment, evaluate and iterate**
+* 🎓 Final year **Computer Science student at Quaid-i-Azam University, Islamabad** with a **CGPA of 3.6/4.0**.
+* 🤖 Aspiring **AI Engineer** focused on **Generative AI, Agentic AI, LLMs, and Computer Vision**.
+* 🚀 Passionate about building **intelligent, practical, and production-oriented AI systems** that solve real-world problems.
 
 ---
 
@@ -132,41 +121,11 @@ Artificial Intelligence
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Intentra AI
-
-An intelligent AI application focused on understanding user intent and routing requests to appropriate AI capabilities.
-
-**Tech:** Python • AI Agents • LLMs • LangChain • LangGraph
-
-🔗 [View Repository](https://github.com/Rafiaanaeem/intentra-ai)
-
----
-
-### 👁️ Face Recognition System
-
-A computer vision project exploring modern face recognition using deep face embeddings, vector similarity search, and image-based recognition.
-
-**Tech:** Python • Computer Vision • ArcFace • InsightFace • ChromaDB
-
-🔗 [View Repository](https://github.com/Rafiaanaeem/Face-Recognition-System)
-
----
-
-### 🌦️ Weather ReAct Agent
-
-An AI agent implementation exploring the ReAct pattern, tool usage, reasoning and interaction with external information.
-
-**Tech:** Python • AI Agents • ReAct • LLMs
-
-🔗 [View Repository](https://github.com/Rafiaanaeem/weather-react-agent)
-
----
+## 🚀 Projects
 
 ### 🧠 ScholarMind — AI Research Assistant
 
-An AI-powered research assistant designed to support students and researchers with intelligent research workflows, document generation and AI-assisted interaction.
+An AI-powered research assistant designed to support students and researchers with intelligent research workflows, document generation, and AI-assisted interaction.
 
 **Tech:** Python • Streamlit • LLMs • SQLite • Generative AI
 
@@ -174,37 +133,45 @@ An AI-powered research assistant designed to support students and researchers wi
 
 ---
 
-### 🧩 Multi-Agent AI System
+### 🤖 Agentra AI
 
-A modular multi-agent architecture that intelligently routes user requests to specialized AI agents through a supervisor while using a gatekeeping layer for general conversations.
+An intelligent agentic AI system designed to understand user requests, intelligently route tasks, and coordinate specialized AI capabilities using modern agentic architectures.
 
-**Tech:** Python • LangGraph • LangChain • FastAPI • Streamlit • LLMs
+**Tech:** Python • LangGraph • LangChain • AI Agents • LLMs • Agentic AI
 
 🔗 **Repository:** `TODO — add repository link`
 
 ---
 
-### 🎨 AI Face Stylization using GANs
+### 👁️ Face Recognition System
 
-A deep learning project exploring image generation and face stylization using Generative Adversarial Networks.
+A computer vision system implementing modern face recognition using deep face embeddings, similarity search, and vector database technology.
 
-**Tech:** Python • Deep Learning • GANs • Computer Vision
+**Tech:** Python • ArcFace • InsightFace • ChromaDB • Computer Vision
 
-🔗 **Repository:** `TODO — add repository link`
+🔗 [View Repository](https://github.com/Rafiaanaeem/Face-Recognition-System)
 
 ---
 
 ## 💼 Experience
 
-### Artificial Intelligence & Generative AI Intern
+### 🤖 Artificial Intelligence & Generative AI Intern
 
 **ITSOLERA Pvt. Ltd.**
 
-📅 June 2025 – August 2025
+📅 **June 2025 – August 2025**
 
-Worked on AI-focused development and explored practical applications of **Generative AI, LLMs and intelligent software systems**.
+Worked on AI-focused development and explored practical applications of **Generative AI, LLMs, and intelligent software systems**.
 
-> `TODO: Add 2–3 specific responsibilities/achievements from your internship here.`
+---
+
+### 🧩 Agentic AI Intern
+
+**Rapidev**
+
+📅 **July 2026 – August 2026**
+
+Worked on **Agentic AI systems**, exploring intelligent agents, agent workflows, LLM-based applications, and modern agentic architectures.
 
 ---
 
@@ -219,8 +186,8 @@ I'm always interested in connecting with people working on **AI, Machine Learnin
   <a href="https://www.linkedin.com/in/rafia-naeem/">
     <img src="https://img.shields.io/badge/LinkedIn-Rafia%20Naeem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rafiaaneem960@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rafiaaneem960%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:[rafianaeem960@gmail.com](mailto:rafianaeem960@gmail.com)">
+    <img src="https://img.shields.io/badge/Gmail-rafianaeem960%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
