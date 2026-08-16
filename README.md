@@ -208,93 +208,20 @@ Worked on AI-focused development and explored practical applications of **Genera
 
 ---
 
-## 🎓 Education
-
-### Bachelor of Science in Computer Science
-
-**Quaid-i-Azam University — Islamabad, Pakistan**
-
-`2023 – 2027`
-
-* Computer Science
-* Artificial Intelligence
-* Machine Learning
-* Data Structures & Algorithms
-* Database Systems
-* Software Engineering
-
----
-
-## 📚 Currently Learning
-
-I'm continuously expanding my AI engineering foundation.
-
-```text
-🔹 Large Language Models
-🔹 Transformer Architecture
-🔹 Retrieval-Augmented Generation (RAG)
-🔹 Multi-Agent Systems
-🔹 LangGraph & Agentic Architectures
-🔹 Computer Vision
-🔹 CNN Architectures
-🔹 Object Detection
-🔹 Model Evaluation & Optimization
-🔹 Production AI Systems
-```
-
----
-
-## 🧪 AI Engineering Philosophy
-
-> I don't want to only learn AI models.
->
-> I want to understand **how AI systems work, how to evaluate them, how to connect them with tools, and how to turn them into reliable real-world applications.**
-
-My goal is to grow from building AI prototypes to engineering **scalable, intelligent and production-ready AI systems**.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiaanaeem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiaanaeem&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rafiaanaeem&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiaanaeem&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rafiaanaeem/Rafiaanaeem/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with people working on **AI, Machine Learning, Generative AI, Computer Vision and emerging technologies**.
 
 <p align="center">
   <a href="https://github.com/Rafiaanaeem">
-    <img src="https://img.shields.io/badge/GitHub-Rafiaanaeem-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Rafiaanaeem-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/rafia-naeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafia%20Naeem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rafia%20Naeem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- TODO: Add your email -->
+  <a href="mailto:rafiaaneem960@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rafiaaneem960%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
