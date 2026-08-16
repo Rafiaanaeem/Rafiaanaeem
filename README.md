@@ -4,26 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Computer+Science+Student;Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;Building+Intelligent+Systems+That+Solve+Real+Problems;Always+Learning%2C+Building+%26+Experimenting" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rafiaanaeem">
-    <img src="https://img.shields.io/badge/GitHub-Rafiaanaeem-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rafia-naeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafia%20Naeem-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
 
 * 🎓 Final year **Computer Science student at Quaid-i-Azam University, Islamabad** with a **CGPA of 3.6/4.0**.
-* 🤖 Aspiring **AI Engineer** focused on **Generative AI, Agentic AI, LLMs, and Computer Vision**.
+* 🤖 **AI Engineer** and continuously more focused on **Generative AI, Agentic AI, LLMs, and Computer Vision**.
 * 🚀 Passionate about building **intelligent, practical, and production-oriented AI systems** that solve real-world problems.
 
 ---
 
-## 🧠 What I Work On
+## 🧠 What I Have Worked On
 
 ```text
 Artificial Intelligence
@@ -108,17 +99,6 @@ Artificial Intelligence
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
-
 ---
 
 ## 🚀 Projects
@@ -129,7 +109,7 @@ An AI-powered research assistant designed to support students and researchers wi
 
 **Tech:** Python • Streamlit • LLMs • SQLite • Generative AI
 
-🔗 **Repository:** `TODO — add repository link`
+🔗 [View Repository](https://github.com/Rafiaanaeem/Scholar_mind)
 
 ---
 
@@ -139,7 +119,7 @@ An intelligent agentic AI system designed to understand user requests, intellige
 
 **Tech:** Python • LangGraph • LangChain • AI Agents • LLMs • Agentic AI
 
-🔗 **Repository:** `TODO — add repository link`
+🔗 [View Repository](https://github.com/Rafiaanaeem/intentra-ai)
 
 ---
 
@@ -161,7 +141,7 @@ A computer vision system implementing modern face recognition using deep face em
 
 📅 **June 2025 – August 2025**
 
-Worked on AI-focused development and explored practical applications of **Generative AI, LLMs, and intelligent software systems**.
+Worked on AI-focused development and explored practical applications of **Generative AI, GANS , LLMs and intelligent software systems**.
 
 ---
 
