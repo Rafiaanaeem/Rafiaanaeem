@@ -168,9 +168,9 @@ I'm always interested in connecting with people working on **AI, Machine Learnin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rafianaeem960@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rafianaeem960@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail"/>
+</a>
 </p>
 
 ---
