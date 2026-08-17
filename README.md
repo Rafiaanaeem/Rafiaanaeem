@@ -161,7 +161,7 @@ I'm always interested in connecting with people working on **AI, Machine Learnin
 
 <p align="center">
   <a href="https://github.com/Rafiaanaeem">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rafia-naeem/">
