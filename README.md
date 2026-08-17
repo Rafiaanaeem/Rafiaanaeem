@@ -105,7 +105,11 @@ Artificial Intelligence
 
 ###  ScholarMind — AI Research Assistant
 
-An AI-powered research assistant designed to support students and researchers with intelligent research workflows, document generation, and AI-assisted interaction.
+An AI web app using Python and Streamlit to help users easily find research topics and plan literature reviews.
+Used the Groq AI model (Llama 3) to instantly generate structured research reports, including summaries and methodologies.
+Secured the application with a custom login system, safe password hashing (bcrypt), and different user roles (Admin and User).
+Managed a local SQLite database to save research history, automatically adjusting saved times to match the user's local timezone.
+Added an export feature so users can instantly download their AI-generated research as clean PDF or Word documents.
 
 **Tech:** Python • Streamlit • LLMs • SQLite • Generative AI
 
@@ -115,7 +119,7 @@ An AI-powered research assistant designed to support students and researchers wi
 
 ###  Agentra AI
 
-An intelligent agentic AI system designed to understand user requests, intelligently route tasks, and coordinate specialized AI capabilities using modern agentic architectures.
+Developed a modular multi-agent AI system using LangGraph, LangChain, FastAPI, Streamlit, and Groq LLMs. Implemented a Gatekeeper–Supervisor architecture for intelligent intent detection and dynamic task routing to specialized agents, including Weather, Translation, Summarization, Movie Recommendation, Facts, and Face Recognition. Integrated ArcFace and ChromaDB for facial embedding generation, enrollment, identification, and multi-face recognition, enabling seamless multimodal AI interactions through a unified chat interfa
 
 **Tech:** Python • LangGraph • LangChain • AI Agents • LLMs • Agentic AI
 
@@ -125,8 +129,9 @@ An intelligent agentic AI system designed to understand user requests, intellige
 
 ###  Face Recognition System
 
-A computer vision system implementing modern face recognition using deep face embeddings, similarity search, and vector database technology.
-
+Developed a Face Recognition System using ArcFace/InsightFace for face detection and high-quality embedding generation.
+Implemented ChromaDB for persistent vector storage and cosine similarity for accurate face identification and unknown-person detection.
+Built FastAPI endpoints for face enrollment and search, with support for single/multiple-face images and performance benchmarking.
 **Tech:** Python • ArcFace • InsightFace • ChromaDB • Computer Vision
 
 🔗 [View Repository](https://github.com/Rafiaanaeem/Face-Recognition-System)
