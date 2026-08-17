@@ -133,7 +133,7 @@ A computer vision system implementing modern face recognition using deep face em
 
 ---
 
-##  Experience
+## Work Experience
 
 ###  Artificial Intelligence & Generative AI Intern
 
