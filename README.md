@@ -160,14 +160,10 @@ Worked on **Agentic AI systems**, exploring intelligent agents, agent workflows,
 I'm always interested in connecting with people working on **AI, Machine Learning, Generative AI, Computer Vision and emerging technologies**.
 
 <p align="center">
-  <a href="https://github.com/Rafiaanaeem">
-    <img src="https://img.shields.io/badge/GitHub-Rafiaanaeem-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://github.com/Rafiaanaeem">  </a>
   <a href="https://www.linkedin.com/in/rafia-naeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafia%20Naeem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[rafianaeem960@gmail.com](mailto:rafianaeem960@gmail.com)">
-    <img src="https://img.shields.io/badge/Gmail-rafianaeem960%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
