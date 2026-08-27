@@ -118,7 +118,9 @@ Artificial Intelligence
 
 ###  Agentra AI
 
-Developed a modular multi-agent AI system using LangGraph, LangChain, FastAPI, Streamlit, and Groq LLMs. Implemented a Gatekeeper–Supervisor architecture for intelligent intent detection and dynamic task routing to specialized agents, including Weather, Translation, Summarization, Movie Recommendation, Facts, and Face Recognition. Integrated ArcFace and ChromaDB for facial embedding generation, enrollment, identification, and multi-face recognition, enabling seamless multimodal AI interactions through a unified chat interfa
+* Developed a **modular multi-agent AI system** using **LangGraph, LangChain, FastAPI, Streamlit, and Groq LLMs** with a Gatekeeper–Supervisor architecture for intelligent task routing.
+* Integrated specialized agents for **weather, translation, summarization, movie recommendations, facts, and face recognition** within a unified chat interface.
+* Implemented **ArcFace and ChromaDB** for facial embedding generation, enrollment, identification, and multi-face recognition.
 
 **Tech:** Python • LangGraph • LangChain • AI Agents • LLMs • Agentic AI
 
@@ -128,10 +130,9 @@ Developed a modular multi-agent AI system using LangGraph, LangChain, FastAPI, S
 
 ###  Face Recognition System
 
-Developed a Face Recognition System using ArcFace/InsightFace for face detection and high-quality embedding generation.
-Implemented ChromaDB for persistent vector storage and cosine similarity for accurate face identification and unknown-person detection.
-Built FastAPI endpoints for face enrollment and search, with support for single/multiple-face images and performance benchmarking.
-**Tech:** Python • ArcFace • InsightFace • ChromaDB • Computer Vision
+* Developed a **Face Recognition System** using **ArcFace/InsightFace** for face detection and high-quality facial embedding generation.
+* Implemented **ChromaDB vector storage** with cosine similarity for accurate face identification and unknown-person detection.
+* Built **FastAPI endpoints** for face enrollment, search, multi-face recognition, and system performance benchmarking using **Python, ArcFace, InsightFace, and ChromaDB**.
 
 🔗 [View Repository](https://github.com/Rafiaanaeem/Face-Recognition-System)
 
