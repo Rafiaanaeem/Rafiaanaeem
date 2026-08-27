@@ -140,23 +140,13 @@ Artificial Intelligence
 
 ## Work Experience
 
-###  Artificial Intelligence & Generative AI Intern
+###  Artificial Intelligence & Generative AI Intern    📅 **June 2025 – August 2025**
 
 **ITSOLERA Pvt. Ltd.**
 
-📅 **June 2025 – August 2025**
-
-Worked on AI-focused development and explored practical applications of **Generative AI, GANS , LLMs and intelligent software systems**.
-
----
-
-###  Agentic AI Intern
+###  Agentic AI Intern    📅 **July 2026 – August 2026**
 
 **Rapidev**
-
-📅 **July 2026 – August 2026**
-
-Worked on **Agentic AI systems**, exploring intelligent agents, agent workflows, LLM-based applications, and modern agentic architectures.
 
 ---
 
