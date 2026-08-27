@@ -10,7 +10,7 @@
 
 *  Final year **Computer Science student at Quaid-i-Azam University, Islamabad** with a **CGPA of 3.6/4.0**.
 *  **AI Engineer** and continuously more focused on **Generative AI, Agentic AI, LLMs, and Computer Vision**.
-*  Passionate about building **intelligent, practical, and production-oriented AI systems** that solve real-world problems.
+*  Built multiple AI and Computer Vision projects like face recognition systems, video summarizers, and AI-powered applications—that bring together **Generative AI, LLMs, and Computer Vision** to solve real-world problems.
 
 ---
 
@@ -105,11 +105,10 @@ Artificial Intelligence
 
 ###  ScholarMind — AI Research Assistant
 
-An AI web app using Python and Streamlit to help users easily find research topics and plan literature reviews.
-Used the Groq AI model (Llama 3) to instantly generate structured research reports, including summaries and methodologies.
-Secured the application with a custom login system, safe password hashing (bcrypt), and different user roles (Admin and User).
-Managed a local SQLite database to save research history, automatically adjusting saved times to match the user's local timezone.
-Added an export feature so users can instantly download their AI-generated research as clean PDF or Word documents.
+* Developed an **AI-powered research assistant** using **Python, Streamlit, and Groq (Llama 3)** to generate research topics, literature review plans, and structured research reports.
+* Implemented **secure authentication and role-based access control (Admin/User)** with **bcrypt password hashing** and a local **SQLite database** for research history and user data.
+* Added **PDF and Word export functionality** to allow users to download and manage their AI-generated research reports.
+
 
 **Tech:** Python • Streamlit • LLMs • SQLite • Generative AI
 
