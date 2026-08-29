@@ -154,6 +154,7 @@ Artificial Intelligence
 
 I'm always interested in connecting with people working on **AI, Machine Learning, Generative AI, Computer Vision and emerging technologies**.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rafiaanaeem&label=Profile%20Views&color=6C5CE7&style=flat)
 <p align="center">
   <a href="https://github.com/Rafiaanaeem">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40" alt="GitHub"/>
