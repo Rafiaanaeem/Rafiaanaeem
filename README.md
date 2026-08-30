@@ -101,58 +101,7 @@ Artificial Intelligence
 
 ---
 
-##  Projects
-
-###  ScholarMind — AI Research Assistant
-
-* Developed an **AI-powered research assistant** using **Python, Streamlit, and Groq (Llama 3)** to generate research topics, literature review plans, and structured research reports.
-* Implemented **secure authentication and role-based access control (Admin/User)** with **bcrypt password hashing** and a local **SQLite database** for research history and user data.
-* Added **PDF and Word export functionality** to allow users to download and manage their AI-generated research reports.
-
-
-**Tech:** Python • Streamlit • LLMs • SQLite • Generative AI
-
-🔗 [View Repository](https://github.com/Rafiaanaeem/Scholar_mind)
-
----
-
-###  Agentra AI
-
-* Developed a **modular multi-agent AI system** using **LangGraph, LangChain, FastAPI, Streamlit, and Groq LLMs** with a Gatekeeper–Supervisor architecture for intelligent task routing.
-* Integrated specialized agents for **weather, translation, summarization, movie recommendations, facts, and face recognition** within a unified chat interface.
-* Implemented **ArcFace and ChromaDB** for facial embedding generation, enrollment, identification, and multi-face recognition.
-
-**Tech:** Python • LangGraph • LangChain • AI Agents • LLMs • Agentic AI
-
-🔗 [View Repository](https://github.com/Rafiaanaeem/intentra-ai)
-
----
-
-###  Face Recognition System
-
-* Developed a **Face Recognition System** using **ArcFace/InsightFace** for face detection and high-quality facial embedding generation.
-* Implemented **ChromaDB vector storage** with cosine similarity for accurate face identification and unknown-person detection.
-* Built **FastAPI endpoints** for face enrollment, search, multi-face recognition, and system performance benchmarking using **Python, ArcFace, InsightFace, and ChromaDB**.
-
-🔗 [View Repository](https://github.com/Rafiaanaeem/Face-Recognition-System)
-
----
-
-## Work Experience
-
-###  Artificial Intelligence & Generative AI Intern    📅 **June 2025 – August 2025**
-
-**ITSOLERA Pvt. Ltd.**
-
-###  Agentic AI Intern    📅 **July 2026 – August 2026**
-
-**Rapidev**
-
----
-
 ## 🤝 Let's Connect
-
-I'm always interested in connecting with people working on **AI, Machine Learning, Generative AI, Computer Vision and emerging technologies**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rafiaanaeem&label=Profile%20Views&color=6C5CE7&style=flat)
 <p align="center">
