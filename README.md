@@ -1,4 +1,4 @@
-# Hi, I'm Rafia Naeem 👋
+# Hi, I'm Rafia 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Computer+Science+Student;Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;Building+Intelligent+Systems+That+Solve+Real+Problems;Always+Learning%2C+Building+%26+Experimenting" alt="Typing SVG" />
