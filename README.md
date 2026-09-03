@@ -71,6 +71,8 @@ Artificial Intelligence
   <img src="https://img.shields.io/badge/Computer_Vision-00A98F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/AGENTIC_AI-412991?style=for-the-badge"/>
+
 </p>
 
 ### AI Frameworks & Libraries
