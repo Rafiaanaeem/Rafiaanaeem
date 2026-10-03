@@ -8,7 +8,7 @@
 
 ##  About Me
 
-*  Final year **Computer Science student at Quaid-i-Azam University, Islamabad** with a **CGPA of 3.6/4.0**.
+*  Final year **Computer Science student at Quaid-i-Azam University, Islamabad** with a **CGPA of 3.6/4.0**.
 *  **AI Engineer** and continuously more focused on **Generative AI, Agentic AI, LLMs, and Computer Vision**.
 *  Built multiple AI and Computer Vision projects like face recognition systems, video summarizers, and AI-powered applications—that bring together **Generative AI, LLMs, and Computer Vision** to solve real-world problems.
 
@@ -56,10 +56,8 @@ Artificial Intelligence
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JAVASCRIPT-4479A1?style=for-the-badge&logo=javascript&logoColor=white"/>
-
-
+  <img src="https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-4479A1?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
 ### AI / Machine Learning
@@ -71,8 +69,7 @@ Artificial Intelligence
   <img src="https://img.shields.io/badge/Computer_Vision-00A98F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/AGENTIC_AI-412991?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/AGENTIC_AI-412991?style=for-the-badge"/>
 </p>
 
 ### AI Frameworks & Libraries
@@ -107,9 +104,68 @@ Artificial Intelligence
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 ScholarMind — AI Research Assistant
+
+An AI-powered academic research assistant designed to help users explore research topics, generate structured content, and manage research workflows.
+
+**Tech:** Python • Streamlit • Generative AI • LLMs • SQLite
+
+<p>
+  <a href="https://github.com/Rafiaanaeem/ScholarMind">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🤖 Intentra AI — Multi-Agent AI System
+
+A **LangGraph-based multi-agent AI assistant** with intelligent routing through specialized agents for **Weather, Translation, Summarization, Movie Recommendations, General Facts, and Face Recognition** using **ArcFace and ChromaDB**.
+
+**Tech:** LangChain · LangGraph · FastAPI · Streamlit · Groq · OpenCV · ArcFace · ChromaDB
+
+<p>
+  <a href="https://github.com/Rafiaanaeem/intentra-ai">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 👁️ Face Recognition System
+
+A computer vision system for face recognition using deep face embeddings, similarity search, and modern recognition techniques.
+
+**Tech:** Python • OpenCV • ArcFace • InsightFace • ChromaDB
+
+<p>
+  <a href="https://github.com/Rafiaanaeem/Face-Recognition-System">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🎥 VidMind AI — Video Summarizer
+
+An AI-powered video summarization application that extracts YouTube transcripts or uses Whisper as a fallback to generate concise summaries.
+
+**Tech:** Python • Streamlit • Whisper • YouTube Transcript API • yt-dlp • Groq
+
+<p>
+  <a href="https://github.com/Rafiaanaeem/vidmind-ai">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rafiaanaeem&label=Profile%20Views&color=6C5CE7&style=flat)
+
 <p align="center">
   <a href="https://github.com/Rafiaanaeem">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40" alt="GitHub"/>
@@ -120,8 +176,8 @@ Artificial Intelligence
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rafianaeem960@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail"/>
-</a>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail"/>
+  </a>
 </p>
 
 ---
