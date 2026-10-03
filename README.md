@@ -104,9 +104,9 @@ Artificial Intelligence
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 ScholarMind — AI Research Assistant
+###  ScholarMind — AI Research Assistant
 
 An AI-powered academic research assistant designed to help users explore research topics, generate structured content, and manage research workflows.
 
@@ -120,11 +120,10 @@ An AI-powered academic research assistant designed to help users explore researc
 
 ---
 
-🏫 University Workshop Software System
+### University Workshop Software System
 
-A software system designed to manage university workshop operations, including workshop-related records, processes, and information management.
-
-Tech: Java · SQL · MySQL
+A database-driven software system developed to manage university workshop operations, including workshop records, student and staff information, equipment, inventory, and workshop activities. The system provides structured data management and simplifies the organization and retrieval of workshop information.
+**Tech:** Java • SQL • MYSQL
 
 <p>
   <a href="https://github.com/Rafiaanaeem/University-Workshop-Software-System">
@@ -132,11 +131,10 @@ Tech: Java · SQL · MySQL
   </a>
 </p>
 
-🫁 Chest X-Ray Pneumonia Classification
+### Chest X-Ray Pneumonia Classification
 
-A deep learning-based medical image classification system that analyzes chest X-ray images to classify cases as Pneumonia or Normal.
-
-Tech: Python · CNN · TensorFlow/Keras · OpenCV · Deep Learning
+A deep learning-based medical image classification system that analyzes chest X-ray images and classifies them as Pneumonia or Normal. The project involves image preprocessing, data preparation, CNN-based model training, evaluation, and prediction to automate pneumonia detection from X-ray images and also uses EfficientNet-B0 and DenseNet121.
+Tech: Python · EfficientNet-B0 · DenseNet121 · TensorFlow/Keras · OpenCV · Deep Learning
 
 <p>
   <a href="https://github.com/Rafiaanaeem/Chest-X-Ray-Pneumonia-Classification">
@@ -144,7 +142,7 @@ Tech: Python · CNN · TensorFlow/Keras · OpenCV · Deep Learning
   </a>
 </p>
 
-### 🤖 Intentra AI — Multi-Agent AI System
+###  Intentra AI — Multi-Agent AI System
 
 A **LangGraph-based multi-agent AI assistant** with intelligent routing through specialized agents for **Weather, Translation, Summarization, Movie Recommendations, General Facts, and Face Recognition** using **ArcFace and ChromaDB**.
 
@@ -158,7 +156,7 @@ A **LangGraph-based multi-agent AI assistant** with intelligent routing through 
 
 ---
 
-### 👁️ Face Recognition System
+###  Face Recognition System
 
 A computer vision system for face recognition using deep face embeddings, similarity search, and modern recognition techniques.
 
@@ -172,7 +170,7 @@ A computer vision system for face recognition using deep face embeddings, simila
 
 ---
 
-### 🎥 VidMind AI — Video Summarizer
+###  VidMind AI — Video Summarizer
 
 An AI-powered video summarization application that extracts YouTube transcripts or uses Whisper as a fallback to generate concise summaries.
 
