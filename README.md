@@ -113,7 +113,7 @@ An AI-powered academic research assistant designed to help users explore researc
 **Tech:** Python • Streamlit • Generative AI • LLMs • SQLite
 
 <p>
-  <a href="https://github.com/Rafiaanaeem/ScholarMind">
+  <a href="https://github.com/Rafiaanaeem/Scholar_Mind">
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -131,6 +131,8 @@ A database-driven software system developed to manage university workshop operat
   </a>
 </p>
 
+---
+
 ### Chest X-Ray Pneumonia Classification
 
 A deep learning-based medical image classification system that analyzes chest X-ray images and classifies them as Pneumonia or Normal. The project involves image preprocessing, data preparation, CNN-based model training, evaluation, and prediction to automate pneumonia detection from X-ray images and also uses EfficientNet-B0 and DenseNet121.
@@ -141,6 +143,8 @@ Tech: Python · EfficientNet-B0 · DenseNet121 · TensorFlow/Keras · OpenCV · 
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ###  Intentra AI — Multi-Agent AI System
 
