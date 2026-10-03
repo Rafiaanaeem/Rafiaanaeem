@@ -120,6 +120,30 @@ An AI-powered academic research assistant designed to help users explore researc
 
 ---
 
+🏫 University Workshop Software System
+
+A software system designed to manage university workshop operations, including workshop-related records, processes, and information management.
+
+Tech: Java · SQL · MySQL
+
+<p>
+  <a href="https://github.com/Rafiaanaeem/University-Workshop-Software-System">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+🫁 Chest X-Ray Pneumonia Classification
+
+A deep learning-based medical image classification system that analyzes chest X-ray images to classify cases as Pneumonia or Normal.
+
+Tech: Python · CNN · TensorFlow/Keras · OpenCV · Deep Learning
+
+<p>
+  <a href="https://github.com/Rafiaanaeem/Chest-X-Ray-Pneumonia-Classification">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ### 🤖 Intentra AI — Multi-Agent AI System
 
 A **LangGraph-based multi-agent AI assistant** with intelligent routing through specialized agents for **Weather, Translation, Summarization, Movie Recommendations, General Facts, and Face Recognition** using **ArcFace and ChromaDB**.
